@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WebApp</string>
+    <string name="adUnit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="retry">Retry</string>
+    <string name="title">Your Title \nYour tagline…</string>
+    <string name="nav_head">Navigation header</string>
+    <string name="fb">Facebook</string>
+    <string name="twt">Twitter</string>
+    <string name="ig">Instagram</string>
+    <string name="linkdin">LinkedIn</string>
+    <string name="gplus">Google+</string>
+    <string name="recom">Recommended</string>
+    <string name="amzn">Shop on Amazon</string>
+    <string name="flpkrt">Shop on Flipkart</string>
+    <string name="emus">Email Us</string>
+    <string name="conus">Contact Us</string>
+    <string name="rfrsh">Refresh</string>
+    <string name="share">share</string>
+</resources>

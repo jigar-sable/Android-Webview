@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/fb"
+            android:title="@string/fb" />
+        <item
+            android:id="@+id/nav_twitter"
+            android:icon="@drawable/twitter"
+            android:title="@string/twt" />
+        <item
+            android:id="@+id/nav_insta"
+            android:icon="@drawable/ig2"
+            android:title="@string/ig" />
+        <item
+            android:id="@+id/nav_linkedin"
+            android:icon="@drawable/linked"
+            android:title="@string/linkdin" />
+        <item
+            android:id="@+id/nav_google"
+            android:icon="@drawable/google"
+            android:title="@string/gplus" />
+    </group>
+
+    <item android:title="@string/recom">
+        <menu>
+            <item
+                android:id="@+id/nav_amazon"
+                android:icon="@drawable/amazon"
+                android:title="@string/amzn" />
+            <item
+                android:id="@+id/nav_flipkart"
+                android:icon="@drawable/flipkart"
+                android:title="@string/flpkrt" />
+        </menu>
+    </item>
+</menu>
