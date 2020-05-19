@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JigarSable/Android-Webview/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JigarSable/Android-Webview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<body>
+<h2>WebApp - Android WebView App</h2>
+  <text>
+This app is made to convert websites to a native android app.<br>
+WebApp is an android application which uses web view component for displaying content. It is quick, easy and affordable. WebApp has many useful features. This app provides many of customization options and features.
+From monetisation to colour customization to caching web page. It has 7 different color themes you can choose which you want.<br>
+See more features and video preview below.</text>
+  
+<h5>Featured Images:</h5>
+<img src="https://lifecode.imfast.io/a.jpg">
+<img src="https://lifecode.imfast.io/b.jpg">
+<img src="https://lifecode.imfast.io/c.jpg">
+<img src="https://lifecode.imfast.io/d.jpg">
+<img src="https://lifecode.imfast.io/e.jpg">
+<img src="https://lifecode.imfast.io/f.jpg">
+<img src="https://lifecode.imfast.io/g.jpg">
+<img src="https://lifecode.imfast.io/h.jpg">
+<img src="https://lifecode.imfast.io/i.jpg">
+<img src="https://lifecode.imfast.io/j.jpg">
+<img src="https://lifecode.imfast.io/k.jpg">
+<h2>Features</h2><ul>
+<li>7 Different Color Themes
+<li>Animated Splash Screen
+<li>Javascript Enabled
+<li>Cache Enabled
+<li>Youtube Videos
+<li>Fullscreen Videos
+<li>Navigation Drawer<ul><li>Social Media Links<li>Merchandise or Affiliates</ul>
+<li>Admob Ads(Banner & Interstitial)
+<li>Share Via
+<li>Call & Email Support
+<li>Toolbar Menu Items
+    <ul><li>Refresh
+    <li>Share
+    <li>Contact</ul><li>Intents for opening external apps (e-mail,call,social networks)
+<li>Offline Error Handling
+<li>Download any media files
+<li>Runtime Permissions</ul>
+<h2>Video Preview</h2>
+<video controls>
+  <source src="https://lifecode.imfast.io/neww_video.mp4" type="video/mp4">
+</video>
+</body>
+</html>
