@@ -1,8 +1,10 @@
 # WebApp  Android WebView App
-
 A simple app to convert websites to a native android app.
 
-**WebApp** is an android application which uses web view component for displaying content. This app provides many of customization options and features. From monetisation to colour customization to caching web page. It has **7 different color themes** you can choose which you want.
+**WebApp** is an android application which uses web view component for displaying content. This app provides many of customization options and features. From monetisation to colour customization to caching web page. 
+
+It has **7 different color themes** you can choose which you want.
+
 *See more features below.*
   
 ## Featured Images:
@@ -34,3 +36,12 @@ A simple app to convert websites to a native android app.
 - Offline Error Handling
 - Download any media files
 - Runtime Permissions
+
+## Pre-requisites
+- Android Studio 3.x
+
+## Getting Started
+ This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+ 
+## About me
+ An Android developer in India. If you have any new idea about this project, feel free to [contact me](mailto:jigarsable0@gmail.com). 😃
