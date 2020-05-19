@@ -37,8 +37,9 @@ It has **7 different color themes** you can choose which you want.
 - Download any media files
 - Runtime Permissions
 
-## Pre-requisites
-- Android Studio 3.x
+## Requirements
+- [Android Studio](https://developer.android.com/studio)
+- [Android SDK](https://developer.android.com/studio)
 
 ## Getting Started
  This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
