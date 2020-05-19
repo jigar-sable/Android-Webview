@@ -2,14 +2,12 @@
 <body>
 <h2>WebApp - Android WebView App</h2>
   <text>
-This app is made to convert websites to a native android app.<br>
-WebApp is an android application which uses web view component for displaying content. It is quick, easy and affordable. WebApp has many useful features. This app provides many of customization options and features.
-From monetisation to colour customization to caching web page. It has 7 different color themes you can choose which you want.<br>
+A simple app to convert websites to a native android app.<br>
+WebApp is an android application which uses web view component for displaying content. This app provides many of customization options and features. From monetisation to colour customization to caching web page. It has 7 different color themes you can choose which you want.<br>
 See more features and video preview below.</text>
   
-<h5>Featured Images:</h5>
-<img src="https://lifecode.imfast.io/a.jpg">
-<img src="https://lifecode.imfast.io/b.jpg">
+<h3>Featured Images:</h3>
+<img src="https://lifecode.imfast.io/a.jpg"><img src="https://lifecode.imfast.io/b.jpg">
 <img src="https://lifecode.imfast.io/c.jpg">
 <img src="https://lifecode.imfast.io/d.jpg">
 <img src="https://lifecode.imfast.io/e.jpg">
@@ -37,9 +35,5 @@ See more features and video preview below.</text>
 <li>Offline Error Handling
 <li>Download any media files
 <li>Runtime Permissions</ul>
-<h2>Video Preview</h2>
-<video controls>
-  <source src="https://lifecode.imfast.io/neww_video.mp4" type="video/mp4">
-</video>
 </body>
 </html>
