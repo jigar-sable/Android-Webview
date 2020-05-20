@@ -1,17 +1,22 @@
 language: android
-env:
- global:
-    - ANDROID_API_LEVEL=25
-    - ANDROID_BUILD_TOOLS_VERSION=25.0.2
 android:
- components:
-    - tools
-    - platform-tools
-    # The BuildTools version used by your project
-    - build-tools-$ANDROID_BUILD_TOOLS_VERSION
-    # The SDK version used to compile your project
-    - android-$ANDROID_API_LEVEL
+   components:
+   - tools
+   - tools #Running this twice get's the latest build tools (https://github.com/codepath/android_guides/wiki/Setting-up-Travis-CI)
+   - platform-tools
+   - android-28
+   - build-tools-28.0.3
+   - extra
+   licenses:
+   - 'android-sdk-license-.+'
+
+jdk: oraclejdk8
+
+sudo: required #The build runs out of memory and is killed if we use the container system
+
 before_install:
-  - yes | sdkmanager "platforms;android-25"
+  - yes | sdkmanager "platforms;android-28"
+
 script:
-   - ./gradlew build connectedCheck
+  - ./gradlew clean build
+  - ./gradlew test
