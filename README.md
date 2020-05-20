@@ -45,7 +45,7 @@ It has **7 different color themes** you can choose which you want.
  This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
  
 ## About me
- An Android developer in India. If you have any new idea about this project, feel free to [contact me](mailto:jigarsable0@gmail.com). 😃
+ An android developer in India. If you have any new idea about this project, feel free to [contact me](mailto:jigarsable0@gmail.com). 😃
 
 ## License
     MIT License
