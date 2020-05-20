@@ -1,4 +1,8 @@
 # WebApp  Android WebView App
+![GitHub](https://img.shields.io/github/license/JigarSable/Android-Webview)
+![GitHub repo size](https://img.shields.io/github/repo-size/JigarSable/Android-Webview)
+![Gitter](https://img.shields.io/gitter/room/JigarSable/Android-Webview)
+
 A simple app to convert websites to a native android app.
 
 **WebApp** is an android application which uses web view component for displaying content. This app provides many of customization options and features. From monetisation to colour customization to caching web page. 
