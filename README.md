@@ -1,4 +1,5 @@
 # WebApp  Android WebView App
+![Android CI](https://github.com/jigar-sable/Android-Webview/workflows/Android%20CI/badge.svg)
 ![GitHub](https://img.shields.io/github/license/JigarSable/Android-Webview)
 ![GitHub repo size](https://img.shields.io/github/repo-size/JigarSable/Android-Webview)
 ![Gitter](https://img.shields.io/gitter/room/JigarSable/Android-Webview)
