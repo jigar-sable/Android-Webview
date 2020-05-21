@@ -6,7 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_facebook"
-            android:icon="@drawable/fb"
+            android:icon="@drawable/twitter"
             android:title="@string/fb" />
         <item
             android:id="@+id/nav_twitter"
@@ -14,7 +14,7 @@
             android:title="@string/twt" />
         <item
             android:id="@+id/nav_insta"
-            android:icon="@drawable/ig2"
+            android:icon="@drawable/twitter"
             android:title="@string/ig" />
         <item
             android:id="@+id/nav_linkedin"
