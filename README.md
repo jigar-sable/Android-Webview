@@ -14,13 +14,15 @@ It has **7 different color themes** you can choose which you want.
   
 ## Featured Images:
 
-![](https://lifecode.imfast.io/a.jpg)     ![](https://lifecode.imfast.io/b.jpg)     ![](https://lifecode.imfast.io/c.jpg)     ![](https://lifecode.imfast.io/d.jpg)
-                                                ![](https://lifecode.imfast.io/e.jpg)
+
+![](https://lifecode.imfast.io/a.jpg)     ![](https://lifecode.imfast.io/b.jpg)     ![](https://lifecode.imfast.io/c.jpg)     ![](https://lifecode.imfast.io/d.jpg) ![](https://lifecode.imfast.io/e.jpg)
 
 
 <img src="https://lifecode.imfast.io/j.jpg" alt="drawing" width="420" height="230"/><img src="https://lifecode.imfast.io/k.jpg" alt="drawing" width="430" height="230"/>
 
+
 ![](https://lifecode.imfast.io/f.jpg)     ![](https://lifecode.imfast.io/g.jpg)     ![](https://lifecode.imfast.io/h.jpg)     ![](https://lifecode.imfast.io/i.jpg)
+
 
 ## Features
 
