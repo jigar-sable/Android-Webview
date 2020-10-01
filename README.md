@@ -14,14 +14,17 @@ It has **7 different color themes** you can choose which you want.
   
 ## Featured Images:
 
-![](https://lifecode.imfast.io/a.jpg)![](https://lifecode.imfast.io/b.jpg)![](https://lifecode.imfast.io/c.jpg)![](https://lifecode.imfast.io/d.jpg)
-![](https://lifecode.imfast.io/e.jpg)![](https://lifecode.imfast.io/f.jpg)![](https://lifecode.imfast.io/g.jpg)![](https://lifecode.imfast.io/h.jpg)
-![](https://lifecode.imfast.io/i.jpg)
+![](https://lifecode.imfast.io/a.jpg)     ![](https://lifecode.imfast.io/b.jpg)     ![](https://lifecode.imfast.io/c.jpg)     ![](https://lifecode.imfast.io/d.jpg)
+                                                ![](https://lifecode.imfast.io/e.jpg)
+
 
 <img src="https://lifecode.imfast.io/j.jpg" alt="drawing" width="420" height="230"/><img src="https://lifecode.imfast.io/k.jpg" alt="drawing" width="430" height="230"/>
+
+![](https://lifecode.imfast.io/f.jpg)     ![](https://lifecode.imfast.io/g.jpg)     ![](https://lifecode.imfast.io/h.jpg)     ![](https://lifecode.imfast.io/i.jpg)
+
 ## Features
 
-- 7 Different Color Themes
+- 7 Different Color Themes for visually holding experience.
 - Animated Splash Screen
 - Javascript Enabled
 - Cache Enabled
@@ -31,7 +34,7 @@ It has **7 different color themes** you can choose which you want.
 - Social Media Links
 - Merchandise or Affiliates
 - Admob Ads(Banner & Interstitial)
-- Share Via
+- Share Via option for easy and smooth sharing
 - Call & Email Support
 - Toolbar Menu Items
 - Refresh
@@ -47,7 +50,10 @@ It has **7 different color themes** you can choose which you want.
 - [Android SDK](https://developer.android.com/studio)
 
 ## Getting Started
- This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+ This sample uses the Gradle build system.
+ First of all download or clone this repository in your local machine .
+ To build this project, use the "gradle build" command or use "Import Project" in Android Studio.
+ Make sure the emulator and environment is set .
  
 ## About me
  An android developer in India. If you have any new idea about this project, feel free to [contact me](mailto:jigarsable0@gmail.com). 😃
